@@ -1,4 +1,4 @@
-#Forecasting Methods for Natural Gas Consumption
+# Forecasting Methods for Natural Gas Consumption
 
 The natural gas industry relies on accurate forecasts for
 efficient supply chain management. Billion Cubic Feet (BCF)
